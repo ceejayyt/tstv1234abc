@@ -1,6 +1,6 @@
 local cfg = {
-	menu_title = "cCheats : Elitelupus Private",
-	menu_version = "Beta 1.0.0"
+  menu_title = "cCheats : Elitelupus Private",
+  menu_version = "Beta 1.0.0"
 }
 
 local colors = {
